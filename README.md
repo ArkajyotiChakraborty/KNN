@@ -1,7 +1,9 @@
 # K-Nearest Neighbors:
 
 The KNN algorithm assumes that similar things exist in close proximity. In other words, similar things are near to each other.
+
 ![image](https://user-images.githubusercontent.com/72427901/116254167-bf344300-a78e-11eb-89a0-6cc0ed61bcc7.png)
+
 Notice in the image above that most of the time, similar data points are close to each other. The KNN algorithm hinges on this assumption being true enough for the algorithm to be useful. KNN captures the idea of similarity (sometimes called distance, proximity, or closeness) with some mathematics we might have learned in our childhood— calculating the distance between points on a graph.
 
 # The Steps taken:
